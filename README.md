@@ -1,4 +1,3 @@
-# FUTURE_DS_03
 # 🚦 Road Accident Insights – Tableau Dashboard
 
 This project presents a comprehensive **data visualization dashboard** built using Tableau to analyze **road accident patterns** based on time, location, severity, and conditions. It helps uncover insights into **when**, **where**, and **how** accidents occur, allowing stakeholders to make **data-driven decisions** for improving road safety.
